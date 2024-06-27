@@ -23,21 +23,15 @@ python -m venv venv
    pip install -r requirements.txt
    ```
 
-4. **Install Jupyter Notebook**:
+4. **Run Jupyter Notebook**:
    ```sh
-   pip install notebook
-   ```
-
-5. **Run Jupyter Notebook**:
-   ```sh
-   jupyter notebook
+   python3 llm_rags.py
    ```
 
 
 ## Requirements
 
 - Python 3.10 or higher
-- Jupyter Notebook
 
 
 
